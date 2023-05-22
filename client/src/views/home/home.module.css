@@ -1,0 +1,14 @@
+.home_title {
+    background: rgba(218, 174, 61, 0.858);
+    color: #ffffff;
+    text-align: center;
+    border-radius: 5px;
+    width: 20rem;
+    margin: 1.2rem auto;
+    padding: .5rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+    -webkit-text-stroke: 1px rgb(21, 36, 20); 
+    border: 4mm ridge rgba(255, 255, 255, 0.872);
+}
+

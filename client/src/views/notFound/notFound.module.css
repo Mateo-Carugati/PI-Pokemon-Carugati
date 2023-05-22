@@ -1,0 +1,35 @@
+.notfound {
+    color: #fff;
+    text-align: center;
+    background: #632e2edd;
+    border: 4mm ridge rgba(57, 57, 57, 0.872); 
+    width: 300px;
+    padding: 1rem;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.notfound h1 {
+    margin: 0 0 .5rem 0;
+    font-weight: 400;
+    -webkit-text-stroke: 1px rgb(21, 36, 20);
+    font-weight: 500; 
+}
+
+.notfound a {
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+    border: 1mm ridge rgba(255, 255, 255, 0.872);
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .notfound a:hover {
+    background-color: #fff;
+    color: #632e2ede;
+  }
